@@ -10,7 +10,7 @@ function exibir(tag, texto) {
 
 
 exibir('h1', 'Jogo do número secreto');
-exibir('p', 'Dígite um número de 1 a 10');
+exibir('p', 'Dígite um número de 1 a 100');
 
 let tentativas = 0;
 let pontos = 1000;
