@@ -39,7 +39,7 @@ function verificarChute() {
 
 
     } else {
-      exibir("p", "O número secreto é maior");
+      exibir("p", " número secreto é maior");
       tentativas++;
       limparcampo();
       pp = 10 * (chute - numerosecreto);
